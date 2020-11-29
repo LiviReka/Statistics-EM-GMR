@@ -10,3 +10,4 @@ Mixture of regressions project
 ### Some background info/notes
 - EM (expectation maximization) algorithm computes the probability of each point belonging to one of n distributions, if we are starting with a mixed distribution model
 - answers this question: How likely is point Xi to come from distribution A? (vs distribution B)
+- Very good comparison between K-Means and EM : https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
